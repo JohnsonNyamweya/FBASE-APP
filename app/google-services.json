@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893271795734",
+    "firebase_url": "https://fbase-app-8010e-default-rtdb.firebaseio.com",
+    "project_id": "fbase-app-8010e",
+    "storage_bucket": "fbase-app-8010e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893271795734:android:283a472c4c47d761f12d37",
+        "android_client_info": {
+          "package_name": "com.johnsonnyamweya.fbaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893271795734-n416fo15b5m3r4cuvtbun3u0hlonedob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrijz20tg83DGZjHcxajeZwgVf1gs0cs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893271795734-n416fo15b5m3r4cuvtbun3u0hlonedob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
